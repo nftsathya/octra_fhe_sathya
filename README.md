@@ -40,13 +40,15 @@ nano wallet.json
 
 ## 6.  Now you can send transaction to other wallets, Some of my address given below to make transactions...
 
-octCNEFKoAi13tbERnj8UdwyUUneM5MacJKhPSh5Kkvdoeu
+octAiVmSKRY8dT1kbw5VFLu6xRmxaKcxfNrzYMAVGNXbHnE
 
-octFrhYexg3h67DrBMuV1GGGTspPiHB1N8WL97HdyznxB15
+octFSbsiNmMZ5B5NJCh6tzfphVZ6p8LEP5dBd8x9jVWP1JP
 
-oct8heKLgiUtNUaJppBesFSCRpcY7ja1zKr5EzCNxozQrLK
+octHyHaL53U2oNLZMSqFfWWckzEFYX49VK6Xp3YVzkUfTqT
 
-octBiACKTeoxody5Qr6ezmjGULYcgHM7X93oZFoWoPSHTxt
+oct7TYAaRX9pdTv1TYEn7XsnUuku95Gr9WTjhkukxexHsys
+
+oct419SqtxrgXLyAuUybPKRMAniDMuAzy7kBQ5bFYubDwKt
 
 octFjXfCRgWYpnnmNLLbVvzA1U8pbQEFZtFQRnjmNiUNvor
 
